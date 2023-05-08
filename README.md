@@ -8,7 +8,6 @@ All those ... moments will be lost in time,
 
 like tears...in rain.
 
-Time to die.
 
 我见过你们人类绝对无法置信的事物，
 
