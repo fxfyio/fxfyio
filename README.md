@@ -4,13 +4,9 @@ Attack ships on fire off the shoulder of Orion.
 
 I've watched c-beams glitter in the dark near the Tannhauser Gate.
 
-All those ... 
+All those ... moments will be lost in time, 
 
-moments will be lost in time, 
-
-like tears...
-
-in rain.
+like tears...in rain.
 
 Time to die.
 
