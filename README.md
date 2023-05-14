@@ -1,22 +1,19 @@
-I've seen things you people wouldn't believe.
+<div id="header" align="center">
+  <img src=https://memeprod.ap-south-1.linodeobjects.com/user-gif/739e3d12f1fb1d1c97e6d4abe9c0ef38.gif width="200" />
+</div>
 
-Attack ships on fire off the shoulder of Orion.
+<h2 align="center">Hi 👋, I'm fxfy.io</h2>
 
-I've watched c-beams glitter in the dark near the Tannhauser Gate.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-All those ... moments will be lost in time, 
+---
+### 👦 About Me
+- 👨‍💻 I'm a developer
+--- 
 
-like tears...in rain.
-
-
-我见过你们人类绝对无法置信的事物，
-
-我目睹了战船在猎户星座的端沿起火燃烧，
-
-我看着C射线在唐怀瑟之门附近的黑暗中闪耀，
-
-所有这些时刻，
-
-终将随时间消逝，
-
-一如眼泪消失在雨中。
+### 🔥 My Stats 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=fxfyio&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fxfyio&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=fxfyio&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxfyio&layout=compact&langs_count=10&theme=react)
+--- 
